@@ -1,0 +1,6 @@
+{
+  "name": "Obsidian Violet — Software Engineer Portfolio",
+  "description": "Personal developer portfolio built with React, Vite, and Tailwind CSS using the Obsidian Violet design system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
