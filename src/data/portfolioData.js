@@ -4,7 +4,7 @@ export const PROFILE = {
   role: 'Aspiring Software Engineer',
   location: 'Aurangabad, Bihar, India',
   email: 'shameer.alam2512@gmail.com',
-  phone: '+91 7492049034',
+  phone: '+91 7462846877',
   availability: 'Open to Software Engineering Roles',
   headline: 'Building meaningful digital experiences through code and creativity.',
   summary:
